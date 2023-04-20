@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Raleway&family=Roboto+Slab&display=swap');
+
+/*font-family: 'Raleway', sans-serif;*/
+
+body{
+    background-image: url("");
+}
+
+/* Styles for the header */
+header {
+	background-color: #17da99;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+    
+}
+li{
+    display: inline-flex;
+    padding-right: 20px;
+    
+}
+.de{
+    text-decoration: none;
+    color: rgb(165, 80, 136);
+    font-size: large;
+}
+.pages{
+    padding-left: 5%;
+}
+
+/* Styles for the navigation menu */
+nav {
+	background-color: #fae0fd;
+	padding: 20px;
+}
+
+.he :hover{
+    cursor: pointer;
+}
+.about{
+    padding-left: 45%;
+}
+.first{
+    width: 40%;
+    margin: 0px;
+    margin-left: 10px;
+}
+.hello{
+    width: 48%;
+}
+.products{
+    padding-left: 45%;
+}
+.source{
+    width: 25%;
+    padding-left: 0%;
+    padding-right: 7%;
+    margin-right: 0%;
+}
+.pro{
+    padding-left: 20%;
+    padding-right: 28%;
+}
+.pro1{
+    margin-bottom: 50px;
+}
+.ser{
+    display: block;
+}
+.s1{
+    margin-bottom: 50px;
+
+}
+.s2{
+    margin-bottom: 50px;
+}
+footer{
+        background-color: #303b41;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+}
+h1{
+    font-family: 'Metal Mania', cursive;
+    font-size: xx-large;
+}
+h2{
+    font-family: Metal Mania;
+    text-decoration: underline;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+}
+.so2{
+    padding-right: 22%;
+    padding-left: 22%;
+}
+.so22{
+    padding-left: 5%;
+}
+.eo{
+    width: 35%;
+}
+.eoo{
+    padding-left: 50%;
+}
